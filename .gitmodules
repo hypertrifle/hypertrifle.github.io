@@ -1,0 +1,3 @@
+[submodule "discogify"]
+	path = discogify
+	url = https://github.com/hypertrifle/Discogify.git
